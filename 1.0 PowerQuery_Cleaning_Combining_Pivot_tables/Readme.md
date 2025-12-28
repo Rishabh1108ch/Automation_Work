@@ -22,6 +22,8 @@ This project is designed to showcase **automation skills** that are highly valua
 
 ---
 
+
+
 ## 🛠️ Tools Used
 - **Microsoft Excel**
 - **Power Query**
@@ -29,6 +31,12 @@ This project is designed to showcase **automation skills** that are highly valua
 - Git & GitHub
 
 ---
+
+### 📌 Before Cleaning – Raw Data
+![Raw Data Screenshot](1.0%20PowerQuery_Cleaning_Combining_Pivot_tables/2.0%20Cleaning/2.0%20data_Screenshot.png)
+### ✅ After Cleaning – Cleaned Data
+![Cleaned Data Screenshot](1.0%20PowerQuery_Cleaning_Combining_Pivot_tables/2.0%20Cleaning/2.1%20Cleaned_data_Screenshot.png)
+
 
 ## 🔄 Work Performed
 
