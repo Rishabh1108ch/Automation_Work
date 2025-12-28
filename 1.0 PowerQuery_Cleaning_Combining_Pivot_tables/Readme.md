@@ -32,10 +32,16 @@ This project is designed to showcase **automation skills** that are highly valua
 
 ---
 
-### 📌 Before Cleaning – Raw Data
-![Raw Data Screenshot](1.0%20PowerQuery_Cleaning_Combining_Pivot_tables/2.0%20Cleaning/2.0%20data_Screenshot.png)
-### ✅ After Cleaning – Cleaned Data
-![Cleaned Data Screenshot](1.0%20PowerQuery_Cleaning_Combining_Pivot_tables/2.0%20Cleaning/2.1%20Cleaned_data_Screenshot.png)
+
+### 🧹 Power Query – Data Cleaning (Before vs After)
+
+#### 🔹 Before Cleaning – Raw Data
+![Raw Data Screenshot](https://github.com/Rishabh1108ch/Power-Query-Excel-Automation/blob/main/1.0%20PowerQuery_Cleaning_Combining_Pivot_tables/2.0%20Cleaning/2.0%20data_Screenshot.png)
+
+#### 🔹 After Cleaning – Cleaned Data
+![Cleaned Data Screenshot](https://github.com/Rishabh1108ch/Power-Query-Excel-Automation/blob/main/1.0%20PowerQuery_Cleaning_Combining_Pivot_tables/2.0%20Cleaning/2.1%20Cleaned_data_Screenshot.png)
+
+
 
 
 ## 🔄 Work Performed
